@@ -18,7 +18,7 @@ I printed with PLA filament on the following settings, and results were great.
 * Walls: 1.05
 * Fill: 20
 
-Print two of these for each filter tray, as shown in <https://github.com/fdiebel/filter-tray-150mm/blob/master/img/03.jpg>
+Print two of these for each filter tray.
 
 Author
 --------
