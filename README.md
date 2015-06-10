@@ -3,7 +3,7 @@
 
 Filter tray adapters to allow use of common-sized filters in the non-standard 150mm filter trays on Konvas and Kinor cameras.
 
-![Image](https://github.com/fdiebel/filter-tray-150mm/blob/master/img/01.jpg)
+![Image](https://github.com/fdiebel/filter-tray-150mm/blob/master/img/03.jpg)
 
 As is usual with Soviet-era camera gear, not every filter tray is manufactured in the same way; these adaptors fit perfect in some of my filter trays, and are loose/tight in others. You may need to tweak the source to fit your specific unit.
 
