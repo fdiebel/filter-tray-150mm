@@ -3,6 +3,8 @@
 
 Filter tray adapters to allow use of common-sized filters in the non-standard 150mm filter trays on Konvas and Kinor cameras.
 
+![Image](https://github.com/fdiebel/filter-tray-150mm/blob/master/img/01.jpg)
+
 Designed with [FreeCAD](http://www.freecadweb.org/).
 
 Instructions
@@ -13,6 +15,8 @@ I printed with PLA filament on the following settings, and results were great.
 * Layer height: 0.22
 * Walls: 1.05
 * Fill: 20
+
+Print two of these for each filter tray, as shown in <https://github.com/fdiebel/filter-tray-150mm/blob/master/img/01.jpg>
 
 Author
 --------
