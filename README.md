@@ -1,7 +1,7 @@
-150mm Filter Tray Adaptors
+150mm Filter Tray Adapters
 =============
 
-Filter tray adaptors to allow use of common-sized filters in the non-standard 150mm filter trays on Konvas and Kinor cameras.
+Filter tray adapters to allow use of common-sized filters in the non-standard 150mm filter trays on Konvas and Kinor cameras.
 
 Designed with [FreeCAD](http://www.freecadweb.org/).
 
