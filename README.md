@@ -1,7 +1,7 @@
 150mm Filter Tray Adapters
 =============
 
-Filter tray adapters to allow use of common-sized filters in the non-standard 150mm filter trays on Konvas and Kinor cameras.
+Filter tray adapters to allow use of common-sized filters in the non-standard 150mm filter trays on Konvas and Kinor cameras. They are designed to hold Tiffen glass filters, which are generally up to around 4mm in thickness.
 
 ![Image](https://github.com/fdiebel/filter-tray-150mm/blob/master/img/03.jpg)
 
